@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "leap-smart-band",
+  "private_key_id": "208d624f5226d4540c2f62e4c49cc7680d37a063",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCioZpTzLT3isWU\nCGywDnveF7dBVuDBYKaeEU0/U5hRsbFJQGsXh6mky1fko1REdkhBryj2H7HI5Q7h\nREwl5WsaWBiasf6HQGFzpXTxKD5na2e3E7AnqcEuxExpZvx+BgwEu272C3no2mcR\ne+EzRYwjO3GYVDleXrMWUEuoZp3vkp90hUD7oMACkHn2VpIO98zr8hs/vCHhIKxd\njnr8L0+rmJFEg8SQQZIbhX3Oatr0QTUChLoGsFGw6Tddv9BnKP3fAJ7zQHQbanmR\njB6C0mvsmOjhs9s4rD/wuK6E6UlbmKjglDxgTxfI6fYhmy7cYoRCW/m4ro2a0+T+\n027pWtLfAgMBAAECggEAA5RN8daLKNyvhjPR7lckJ8UFhRw8HHHi847gQk5EFcim\nrC6pmvN4XKL6LaFu16KsXI4raOYAAxZI1fFkXhh8PumTHfFgYVTkzKBKVafCJZ/G\nefqmj7KxCJja26yRo/H5WPbe4CeInhFMfDMxDpsaMRc1AG+oxuhvN2E6efESdVid\n2NhE2UoMdxq5RW3DYqSXlIrkBHlaSnV4LiHaxpIIGfBsHl+ekKFOlpzeRpxSkka7\nPlcJpuLofZpdGEbGiVfl2/eE5ONwxoRQeFFhw+/hByov7kIqDk8WUbM+dVLvOuH7\nKveTcWnJ7DKqmE/Sbzq48XwNZUU/vBoNeD7+fmaNuQKBgQDRBdi4AVo0o4fgt8dZ\nV3ard839ZqD3vXmofBy2e+bAXvT4Wgb2OIAmEbx+mhDHUF6sEfBpMYiLPbCEZ9LK\naEfGxSMevjdXMS8Kxmjb9GjZKaErvcArqOEX83e5dL3sNTWGYwGI0peviYAAFRna\nFKE78+uVpE8T0IeZxppPC4RW1wKBgQDHLpyJfWodPsbnDbnIEiw+gek7E/R8Qj3m\njuD/ONJJMtm4MHPdKGZsTIlUaPzgIft8zxVtLKdjSMKCZOLFvspSyGmALJ1hjKcl\n1ZEHTJRzmwFxq5x3SNWBounTA4Sg32BLvq+WhGqlLRj8kf9M9j9dExxu2Ujno7Qb\n4I2DwlHLOQKBgA2/27Sm6h8iTrLag/N9jGHVHKi5kocZYKJTn7PlTJWE6YpYqbKS\nnuNiMUsGqWnjAIdDGtRgnMHEChN7nOMRnv8VQq0oCA3lP1nvGUC2wBrg4Sg2cCiv\nEDd6HXsGkeOy0FWJt7UfXTj/y3q16KBu0PhXoDyUtVrxUaos5UOj1027AoGAYnx8\nsEsP7hf9V3/k7bV2pQ2tWiXazJoga2EYhXn+GG2JU9a5Y5A3XLNXcCJdbyG+bQ8k\nBBCBT8lJTBpAOxDEj7xC1jq5MuPOPhnklRxbhvIM+7ykKCMeVvRL86eYq8bnoWxO\n+/jLlpK++RvjhZV47Tem5nSP5OGADAyzTIQH15kCgYAuZt5HC9a24CXFZd/DskHS\nYBSMR9hdTcnuNVHPmKVUXECPZI6oQvXAz/BYIjrGEbznFgWEUEMjx+UFtfnH/S8p\nrhfZJyP4IJwbFnJrunvYop87ejbFqcy5maXmA565AY1/oB7OyFUarPuiSOYNeWEx\njVellFt/9rVMGXJtJHAF7w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-nj6j7@leap-smart-band.iam.gserviceaccount.com",
+  "client_id": "105122989139427764097",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nj6j7%40leap-smart-band.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
