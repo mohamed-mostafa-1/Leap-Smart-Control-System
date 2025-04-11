@@ -27,7 +27,7 @@ def extract_face(image_path):
     image = cv2.resize(image, (416, 416))  # Reduced size for efficiency
 
     # Perform face detection using YOLOv8
-    results = model.predict(image, conf=0.5, classes=[0])  # Class 0 is 'person'
+    results = model.predict(image, conf=0.5, classes=[0])
 
     # Process the results
     for result in results:
