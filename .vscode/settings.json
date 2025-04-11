@@ -4,6 +4,7 @@
         "imread",
         "imwrite",
         "ndarray",
+        "pady",
         "Pylance",
         "vggface",
         "xyxy",
